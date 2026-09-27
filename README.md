@@ -1,1 +1,1 @@
-# Sahana-R-sakrennavar_R25EA198
+I am Sahana, an aspiring software developer building my skills in web development, APIs, Git, GitHub, and modern development tools. This repository contains my learning projects and practical work as I develop my programming and software development skills.
