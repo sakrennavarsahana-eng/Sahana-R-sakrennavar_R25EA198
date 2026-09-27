@@ -1,1 +1,3 @@
 I am Sahana, an aspiring software developer building my skills in web development, APIs, Git, GitHub, and modern development tools. This repository contains my learning projects and practical work as I develop my programming and software development skills.
+My goals are to strengthen my programming and software development skills, build practical projects, learn modern tools and technologies, improve my Git and GitHub workflow, and develop reliable web applications and APIs. I also aim to continuously learn, solve real-world problems, and grow into a skilled and professional software developer.
+My Skills- HTML,Git & GitHub,Visual Studio Code, Basic web development
